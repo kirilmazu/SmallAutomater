@@ -1,3 +1,3 @@
 # SmallAutomater
 
-create simple autmated action flw like move the mouse t pint XY, click and generate keyboard input.
+create simple automated actions flow like move the mouse t pint XY, click and generate keyboard input.
